@@ -1,18 +1,18 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
+            "title": "",
+            "cardTitle": "Computer Engineering and Artificial Intelligence",
+            "cardSubtitle":"TATUFF",
+            "cardDetailedText": "CGPA - 4.1/5",
             "icon" : {
-                "src": "images/education/lorem-ipsum.png"
+                "src": ""
             }
         },
         {
-            "title": "Apr 20XX",
+            "title": "",
             "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
+            "cardSubtitle":"School No.1, Fergana",
             "cardDetailedText": "Marks - 95%"
         }
     ]

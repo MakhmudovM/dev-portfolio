@@ -6,40 +6,36 @@
             "items" : [
      
                 {
-                    "icon": "images/skills/java.png",
-                    "title": "Java"
+                    "icon": "images/skills/html.png",
+                    "title": "HTML"
                 },
                 {
-                    "icon": "images/skills/php.png",
-                    "title": "PHP"
+                    "icon": "images/skills/css.png",
+                    "title": "CSS"
                 },
                 {
                     "icon": "images/skills/js.png",
                     "title": "JavaScript"
-                },
-                {
-                    "icon": "images/skills/python.png",
-                    "title": "Python"
-                },
-                {
-                    "icon": "images/skills/mysql.png",
-                    "title": "MySQL"
                 }
         ]},
         {
             "title": "Frameworks & Technologies",
             "items" : [
                 {
-                    "icon": "images/skills/android_new.png",
-                    "title": "Android"
+                    "icon": "images/skills/bootstrap.png",
+                    "title": "Bootstrap"
                 },
                 {
                     "icon": "images/skills/react.png",
                     "title": "React"
                 },
                 {
-                    "icon": "images/skills/nodejs.png",
-                    "title": "Nodejs"
+                    "icon": "images/skills/tailwind.svg",
+                    "title": "Tailwind CSS"
+                },
+                {
+                    "icon": "images/skills/Vitejs.png",
+                    "title": "Vite"
                 }
             ]
         },
@@ -47,17 +43,34 @@
             "title" : "Tools & Platforms",
             "items": [
                 {
-                    "icon": "images/skills/android-studio.png",
-                    "title": "Android Studio"
+                    "icon": "images/skills/firebase.png",
+                    "title": "Firebase"
                 },
                 {
                     "icon": "images/skills/git.png",
                     "title": "Git"
                 },
                 {
-                    "icon": "images/skills/docker.png",
-                    "title": "Docker"
+                    "icon": "images/skills/vercel.png",
+                    "title": "Vercel"
+                },
+                {
+                    "icon": "images/skills/npm.png",
+                    "title": "NPM"
                 }
             ]
-    }
+    },
+    {
+        "title" : "Other:",
+        "items": [
+            {
+                "icon": "images/skills/sass.png",
+                "title": "SASS"
+            },
+            {
+                "icon": "images/skills/figma.svg",
+                "title": "UI/UX: Figma"
+            }
+        ]
+}
 ]}
